@@ -1,8 +1,8 @@
-package net.fabricmc.example;
+package com.github.draylar;
 
+import com.github.draylar.items.armor.ItemSlimeBoots;
 import net.fabricmc.api.ModInitializer;
-import net.fabricmc.example.items.ItemSlimeLauncher;
-import net.fabricmc.example.items.armor.ItemSlimeBoots;
+import com.github.draylar.items.ItemSlimeLauncher;
 
 public class SlimeLauncher implements ModInitializer {
 

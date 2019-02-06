@@ -1,4 +1,4 @@
-package net.fabricmc.example.items.armor;
+package com.github.draylar.items.armor;
 
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.ArmorItem;

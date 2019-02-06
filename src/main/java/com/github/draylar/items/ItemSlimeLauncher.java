@@ -1,4 +1,4 @@
-package net.fabricmc.example.items;
+package com.github.draylar.items;
 
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.player.PlayerEntity;

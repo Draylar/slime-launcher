@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "side": "universal",
   "initializers": [
-    "net.fabricmc.example.SlimeLauncher"
+    "com.github.draylar.SlimeLauncher"
   ],
   "requires": {
     "fabric": "*"

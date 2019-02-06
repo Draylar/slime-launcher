@@ -1,4 +1,4 @@
-package net.fabricmc.example.items;
+package com.github.draylar.items;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;

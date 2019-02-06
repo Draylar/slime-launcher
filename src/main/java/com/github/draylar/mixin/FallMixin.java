@@ -1,7 +1,7 @@
-package net.fabricmc.example.mixin;
+package com.github.draylar.mixin;
 
 
-import net.fabricmc.example.SlimeLauncher;
+import com.github.draylar.SlimeLauncher;
 import net.minecraft.block.Block;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.PlayerEntity;

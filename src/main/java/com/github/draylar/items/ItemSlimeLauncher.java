@@ -52,13 +52,13 @@ public class ItemSlimeLauncher extends ItemBase
 
             // apply backwards velocity
             if (livingEntity_1.onGround) livingEntity_1.addVelocity(
-                    -vec.x * velocityModifier * 10,
+                    -vec.x * velocityModifier * 13,
                     0,
-                    -vec.z * velocityModifier * 10
+                    -vec.z * velocityModifier * 13
             );
 
             // set vertical velocity directly
-            livingEntity_1.velocityY = 2 * velocityModifier;
+            livingEntity_1.velocityY = 2.25 * velocityModifier;
 
             // play slimey sound
             world_1.playSound((double) livingEntity_1.getPos().getX(), (double) livingEntity_1.getPos().getY(), (double) livingEntity_1.getPos().getZ(), SoundEvents.BLOCK_SLIME_BLOCK_BREAK, SoundCategory.PLAYER, 1f, 1f, false);

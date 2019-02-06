@@ -44,7 +44,7 @@ public class CustomArmorMaterial
         @Override
         public String getName()
         {
-            return "leather";
+            return "slime";
         }
 
         @Override

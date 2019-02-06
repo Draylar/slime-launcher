@@ -11,7 +11,7 @@
     "fabric": "*"
   },
   "mixins": {
-    "client": "modid.client.json",
-    "common": "modid.common.json"
+    "client": "slime-launcher.client.json",
+    "common": "slime-launcher.common.json"
   }
 }
